@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: 错误反馈/Bug report / 不使用此模板提交会被close / Will close without this template
-title: [Bug]/[help]/[idea] 选着其中一个来提交/Choose one to submit
+title: '[Bug]/[help]/[idea] 选着其中一个来提交/Choose one to submit'
 labels: ''
 assignees: ''
 
